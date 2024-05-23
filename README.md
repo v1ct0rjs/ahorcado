@@ -1,4 +1,4 @@
-# ahorcado
+# Ahorcado
 
 Hangman Game
 This Python script is a simple implementation of the classic Hangman game. The game is played by guessing letters to try and guess a word. The player has a limited number of attempts to guess the word.
